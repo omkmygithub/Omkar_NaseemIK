@@ -44,4 +44,4 @@
 
 ## Contact
 
-- Developed by Naseem I Kesingwala. Feel free to reach out at naseem.kesingwala@gmail.com.
+- Developed by Naseem I Kesingwala and Reviewed by Omkar. Feel free to reach out at naseem.kesingwala@gmail.com.
